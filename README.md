@@ -19,8 +19,20 @@ An Arduino Mega-based two-axis ball balancing system with a PID controller
 ## 📂 Folder Structure
 - `/CAD` → 3D mechanical design files
 - `/Schematics` → Circuit diagrams
-- `/Code` → Arduino code
+- `/Code` → Arduino code 
+- `/Code/Test-Codes` → Experimental test sketches with descriptions
 - `/Media` → Photos and videos of the project
+
+
+## 🧪 Test Codes
+All test sketches used during development are located in `Code/Test-Codes/`.  
+Each `.ino` file includes a detailed comment block describing:
+
+- The purpose of the test  
+- Pin configurations  
+- Observations or limitations  
+
+These files document the iterative process that led to the final implementation.
 
 ## 🎯 Project Goal
 This system uses IR sensor arrays to detect ball position and applies PID control to move a platform via two servos. The aim is to keep the ball centered by adjusting the platform's tilt on both X and Y axes.
