@@ -25,6 +25,8 @@ This folder contains the dynamic modeling and analysis report for the 2D Ball Ba
 
 ## 📥 Download Report
 
-👉 [Click here to download the PDF](./Dynamic_Analysis.pdf)
+👉 [Click here to download the Dynamic Analysis PDF](https://github.com/egeozbulbul/2D-Ball-Balancer/raw/main/Dynamic%20Analysis/Dynamic_Analysis.pdf)
+
+
 
 
