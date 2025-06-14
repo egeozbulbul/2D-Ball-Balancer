@@ -1,1 +1,5 @@
 .DS_Store
+# Ignore Simulink auto-generated files
+**/eomSimplificationTest_faultInfo.xml
+**/eomSimplicationTest.slxc
+**/slprj/
