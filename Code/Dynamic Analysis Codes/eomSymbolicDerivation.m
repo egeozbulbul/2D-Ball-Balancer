@@ -22,7 +22,7 @@ V_ball2 = m_ball*g*( Lt - x - r_ball*rp*phi/D )*rp*phi / S;
 V_plat  = 1/2*m_platform*g*Lt*rp*phi / S;
 V_rack  = m_rack*g*rp*phi;
 
-L = T_ball + T_pair + T_plat - (V_ball1 + V_ball2 + V_plat + V_rack);
+L = T_ball + T_pair + T_plat - (V_ball1 + V_ball2 + V_plat + V_rack)
 
 q   = [x,      phi];
 dq  = [Dx,     Dphi];
@@ -43,4 +43,4 @@ pretty( EL(1) )
 disp('Euler--Lagrange w.r.t  phi(t):');
 pretty( EL(2) )
 latex_x   = latex(EL(1));
-latex_phi = latex(EL(2))
+latex_phi = latex(EL(2));
