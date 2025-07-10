@@ -1,4 +1,4 @@
-# 2D Ball Balancer
+# A Comparative Control Study on a Optical Grid-Based 2D Ball Balancer
 
 An Arduino Mega-based two-axis ball balancing system with a PID controller.
 
