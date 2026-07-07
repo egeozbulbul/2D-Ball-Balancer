@@ -1,13 +1,18 @@
 cff-version: 1.2.0
-title: "2D Ball Balancer"
+
+title: "A Nonlinear 2D Ball Balancing System with Robotic Arm Actuation and PID-Based Numerical Feedback Linearization"
+
 message: "If you use this software, please cite it as follows."
+
 type: software
+
+doi: 10.5281/zenodo.21239358
 
 authors:
   - family-names: "Özbülbül"
     given-names: "Ege"
 
-version: "1.0.0"
+version: "1.0.1"
 
 date-released: "2026-07-07"
 
