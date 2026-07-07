@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "2D Ball Balancer"
+message: "If you use this software, please cite it as follows."
+type: software
+
+authors:
+  - family-names: "Özbülbül"
+    given-names: "Ege"
+
+version: "1.0.0"
+
+date-released: "2026-07-07"
+
+repository-code: "https://github.com/egeozbulbul/2D-Ball-Balancer"
+
+license: MIT
+
+keywords:
+  - control systems
+  - robotics
+  - MATLAB
+  - Simulink
+  - PID control
+  - feedback linearization
+  - inverse kinematics
+  - ball balancer
