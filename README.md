@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/1262110961.svg)](https://doi.org/10.5281/zenodo.21239358)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21239358.svg)](https://doi.org/10.5281/zenodo.21239358)
 
 # A Nonlinear 2D Ball Balancing System with Robotic Arm Actuation and PID-Based Numerical Feedback Linearization
 
